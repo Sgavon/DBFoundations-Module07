@@ -1,10 +1,15 @@
 # DBFoundations-Module07
 
 Name: Salvador Gavonel
+
 Date: November 29, 2021
+
 Course: IT FDN 130 A
+
 Assignment 07
-Github URL: https://github.com/Sgavon/DBFoundations
+
+Github URL: [https://github.com/Sgavon/DBFoundations-Module07](https://github.com/Sgavon/DBFoundations-Module07)
+
 # SQL Views, Functions Continued
 ## Introduction:
 Module 07 expands even further on Views, and Functions.  We look at the different uses of the built-in functions SQL houses as well as the uses of UDF, or User-Defined Functions, to create our own custom functions when we need to.
